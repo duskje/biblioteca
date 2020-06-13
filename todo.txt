@@ -1,0 +1,14 @@
+fix serialization: done
+fix serialization again: done
+fix serialization final: done
+convert to methods:
+    add: done
+    remove: done
+    lend: done
+    return: done
+write the list function in the cli file: done
+fix the cli: done
+reformat the __str__ in the book class: done
+fix the list cli function: done
+fix the cli again:
+change the methods, so it raises an exception:
